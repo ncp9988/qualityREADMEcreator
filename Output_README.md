@@ -1,7 +1,7 @@
 
-  # Readme Generator
+  # Readme generator
   ## Description 
-  Nodejs backend app
+  Nodejs backend app with inquireer
 
   ### Table of Contents
   ### ------------------------
@@ -17,10 +17,10 @@
   npm i
 
   ### Usage 
-  free
+  Open source
 
   ### Contributor
-  Shelly
+  Ncp
 
   #### Testing
   Manual
@@ -29,7 +29,7 @@
   [Developer Profile](https://github.com/ncp)
 
   #### Email
-  <a>href="mailto:cnlm@mc.com"</a>
+  <a href="mailto:ncp@gmai;.com"> Please feel free to reach me if you have any questions</a>
 
   #### License
 
