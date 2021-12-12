@@ -1,7 +1,7 @@
 
-  # 1
+  # Readme Generator
   ## Description 
-  2
+  Nodejs backend app
 
   ### Table of Contents
   ### ------------------------
@@ -14,26 +14,26 @@
   * 
   * 
   #### Installation
-  3
+  npm i
 
   ### Usage 
-  4
+  free
 
   ### Contributor
-  5
+  Shelly
 
   #### Testing
-  6
+  Manual
 
   #### GitHub
-  [Developer Profile](https://github.com/7)
+  [Developer Profile](https://github.com/ncp)
 
   #### Email
-  <a>href="mailto:8"</a>
+  <a>href="mailto:cnlm@mc.com"</a>
 
   #### License
 
-  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 
