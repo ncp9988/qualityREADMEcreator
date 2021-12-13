@@ -1,3 +1,48 @@
-# Professional README Generator Starter Code
 
-[How to create a Professional README](./readme-guide.md)
+  # Readme generator
+
+  ## Description 
+  Nodejs backend app with inquireer.
+  It is very important to have a high-quality README for your any projects.
+  With this app, your README can be generated through command-line, instead of typing every single line out. This app will provide you more time to work on project.
+
+
+
+  ### Table of Contents
+  ### ------------------------
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributor](#contributor)
+  * [Testing](#testing)
+  * [Github](#github)
+  * [License](#license)
+  * 
+  * 
+  #### Installation
+  npm install inquirer
+
+  ### Usage 
+  Open source
+
+  ### Contributor
+  Shelby Pham
+
+  #### Testing
+  Manual
+
+  #### GitHub
+  [Developer Profile](https://github.com/ncp)
+
+  #### Email
+  <a href="mailto:ncp9988@gmail.com"> Please feel free to reach me if you have any questions</a>
+
+  #### License
+
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+  ### Screenshot
+  
+
+
+
+

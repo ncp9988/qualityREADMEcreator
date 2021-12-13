@@ -1,5 +1,5 @@
 
-  # Readme generator
+  # README Generator
   ## Description 
   Nodejs backend app with inquireer
 
@@ -26,10 +26,10 @@
   Manual
 
   #### GitHub
-  [Developer Profile](https://github.com/ncp)
+  [Developer Profile](https://github.com/ncp9988)
 
   #### Email
-  <a href="mailto:ncp@gmai;.com"> Please feel free to reach me if you have any questions</a>
+  <a href="mailto:ncp9988@gmail.com"> Please feel free to reach me if you have any questions</a>
 
   #### License
 
