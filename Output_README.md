@@ -1,7 +1,7 @@
 
-  # README Generator
+  # Reademe Generator
   ## Description 
-  Nodejs backend app with inquireer
+  Nodejs backend project
 
   ### Table of Contents
   ### ------------------------
@@ -17,13 +17,13 @@
   npm i
 
   ### Usage 
-  Open source
+  open source
 
   ### Contributor
-  Ncp
+  ncp
 
   #### Testing
-  Manual
+  manual
 
   #### GitHub
   [Developer Profile](https://github.com/ncp9988)
