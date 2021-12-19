@@ -41,6 +41,9 @@
 
   ### Screenshot
   ![Screenshot](https://github.com/ncp9988/qualityREADMEcreator/blob/main/Screen%20Shot%202021-12-12%20at%207.05.34%20PM.png)
+  
+  ### Video
+  ![Video](https://watch.screencastify.com/v/Karwdsi0hbKyqhy4fdpu)
 
   
 
